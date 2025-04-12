@@ -1,13 +1,12 @@
 # 🛍️ React Shopping Website
 
-This is a **React-based Shopping Website** built as part of a front-end internship assignment. It integrates with the [Fake Store API](https://fakestoreapi.com/) to showcase product listings, authentication, cart functionality, and responsive UI.
+This is a **React-based Shopping Website** built as part of a front-end internship assignment. It integrates with the Fake Store Api to showcase product listings, authentication, cart functionality, and responsive UI.
 
 ---
 
 ## 🔗 Live Demo
 
 🌐 [View Live Project](https://your-deployed-link.vercel.app/)  
-📁 [View GitHub Repository](https://github.com/yourusername/react-shopping-site)
 
 ---
 
@@ -52,9 +51,3 @@ This is a **React-based Shopping Website** built as part of a front-end internsh
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/yourusername/react-shopping-site.git
-cd react-shopping-site
